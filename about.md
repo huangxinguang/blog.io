@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于我"
+title: "about"
 description: "学苟知本，六经皆我注脚 "
 header-img: "img/green.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "文章"
+title: "achive"
 description: "你看到的，是我练习千字文的所有文章"
 header-img: "img/green.jpg"
 ---
