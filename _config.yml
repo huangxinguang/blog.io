@@ -1,5 +1,5 @@
 # Site settings
-title: huangxinguang
+title: hxguang
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "黄欣光|读而立·写而生"  
@@ -8,7 +8,7 @@ url: "http://huangxinguang.github.com"
 
 # About/contact
 owner: 
-  name: " huangxinguang"
+  name: " Talk is cheap. Show me the code"
   email: hxguang911219@gmail.com
   bio: "Talk is cheap. Show me the code"
 
