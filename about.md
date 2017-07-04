@@ -2,7 +2,7 @@
 layout: page
 title: "about"
 description: "学苟知本，六经皆我注脚 "
-header-img: "img/green.jpg"
+header-img: "img/study.jpg"
 ---
 
 <!--
@@ -11,7 +11,7 @@ header-img: "img/green.jpg"
 </center>
 -->
 
-我是黄欣光，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是黄欣光，每天千字践行者，践行时间：2014年02月10日至2018年02月23日，感谢这段经历，让我成为了现在的我。
  **认知写作学** 。
 
 ###坚信
