@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "milestone"
+title: "资源库"
 description: "知之真切笃实处即是行，行之明觉精察处即是知 "
 header-img: "img/study.jpg"
 ---

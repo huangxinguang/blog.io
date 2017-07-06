@@ -1,5 +1,5 @@
 # Site settings
-title: "首页"
+title: "以前是人养狗看家，现在是养狗陪人散步"
 header-img: "img/study.jpg"
 tagline: "cn"  
 description: "黄欣光|读而立·写而生"  
@@ -8,9 +8,9 @@ url: "http://huangxinguang.github.com"
 
 # About/contact
 owner: 
-  name: " Talk is cheap. Show me the code"
+  name: " 以前是人养狗看家，现在是养狗陪人散步"
   email: hxguang911219@gmail.com
-  bio: "Talk is cheap. Show me the code"
+  bio: "以前是人养狗看家，现在是养狗陪人散步"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "huangxinguang"
+      author: "hxguang"
       header-img: "img/study.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
