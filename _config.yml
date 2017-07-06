@@ -1,8 +1,8 @@
 # Site settings
-title: "starlight"
+title: "talk is cheap.show me the code."
 header-img: "img/study.jpg"
 tagline: "cn"  
-description: "talk is cheap.show me the code."
+description: "独立 写生"
 baseurl: ""
 url: "http://huangxinguang.github.com"  
 
