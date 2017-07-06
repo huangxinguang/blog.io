@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "标签分类""
+title: "标签分类"
 description: "最美的不是下雨天，是曾和你一起躲过雨的屋檐。"  
 header-img: "img/study.jpg"  
 ---
 
-## 基因列表
+## 标签分类
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "文章"
-description: "你看到的，是我练习千字文的所有文章"
+description: "以前是人养狗看家，现在是狗陪人散步"
 header-img: "img/study.jpg"
 ---
 
