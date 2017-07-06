@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "基因库"
-description: "哈哈，你找到了我的文章基因库"  
+title: "标签分类""
+description: "最美的不是下雨天，是曾和你一起躲过雨的屋檐。"  
 header-img: "img/study.jpg"  
 ---
 
