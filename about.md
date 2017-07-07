@@ -10,7 +10,7 @@ header-img: "img/study.jpg"
 
 - [博客：www.huangxinguang.github.io](http://www.huangxinguang.github.io)
 
-- [微博@黄欣光plus](http://www.weibo.com/207775270)
+- [微博@黄欣光plus](http://weibo.com/i/5963530611)
 
 - [知乎@黄欣光](http://www.zhihu.com/people/huang-xin-guang-64)
 
